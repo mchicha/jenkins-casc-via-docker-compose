@@ -1,0 +1,4 @@
+unclassified:
+        location:
+            # (server_ip is the private ip)
+            url: http://172.31.7.79:8080/ 
