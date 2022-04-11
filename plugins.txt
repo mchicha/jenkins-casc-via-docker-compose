@@ -8,6 +8,7 @@ github-branch-source:latest
 gradle:latest
 ldap:latest
 mailer:latest
+matrix-auth:latest
 pipeline-github-lib:latest
 pipeline-stage-view:latest
 ssh-slaves:latest
